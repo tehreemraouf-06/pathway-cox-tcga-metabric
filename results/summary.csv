@@ -1,0 +1,7 @@
+,internal_cindex,internal_cindex,external_cindex,external_cindex,external_auc5y,external_auc5y
+,mean,std,mean,std,mean,std
+model,,,,,,
+linear,0.677,0.029,0.582,0.014,0.6,0.032
+dense,0.652,0.031,0.596,0.009,0.624,0.01
+random_mask,0.652,0.014,0.599,0.004,0.631,0.008
+pathway,0.673,0.026,0.592,0.017,0.621,0.023

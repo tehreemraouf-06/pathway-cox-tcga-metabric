@@ -1,0 +1,362 @@
+pathway,delta_cindex
+MSigDB:Spermatogenesis,0.002438826735076005
+KEGG:PI3K-Akt signaling pathway,0.0018422779345782514
+KEGG:Endocytosis,0.0016369801002264373
+MSigDB:Adipogenesis,0.0015528045026101944
+MSigDB:Estrogen Response Early,0.0015421736300333944
+KEGG:Tuberculosis,0.0014571266494190604
+KEGG:Huntington disease,0.0014409189256544331
+MSigDB:Oxidative Phosphorylation,0.0014215742230966777
+MSigDB:mTORC1 Signaling,0.001322410837913135
+KEGG:Amyotrophic lateral sclerosis,0.0012713477942246198
+KEGG:Coronavirus disease,0.001232658389109087
+KEGG:Small cell lung cancer,0.0011862136753104657
+KEGG:Human papillomavirus infection,0.00114552008929929
+MSigDB:G2-M Checkpoint,0.0011321007911285984
+KEGG:Herpes simplex virus 1 infection,0.0011029094606922918
+KEGG:Peroxisome,0.0010993367904001071
+KEGG:Prostate cancer,0.0010963740882065753
+KEGG:cAMP signaling pathway,0.0010705811514628793
+KEGG:Cell cycle,0.0010216094269697828
+KEGG:p53 signaling pathway,0.0010169039587800688
+KEGG:Ribosome,0.0009414421911447812
+KEGG:DNA replication,0.0009220974885870258
+KEGG:Inositol phosphate metabolism,0.0009081553606174575
+MSigDB:Mitotic Spindle,0.0008548267211338833
+KEGG:Relaxin signaling pathway,0.0008229341034035054
+MSigDB:Pperoxisome,0.0008194485714111188
+KEGG:Pertussis,0.0008132617521246166
+KEGG:Cytokine-cytokine receptor interaction,0.0007751823151077586
+KEGG:Oxidative phosphorylation,0.0007333559311990534
+MSigDB:Estrogen Response Late,0.0007249035161174921
+KEGG:AMPK signaling pathway,0.0007063430582580077
+KEGG:Insulin signaling pathway,0.0007007662070702247
+MSigDB:Coagulation,0.0006906581642922571
+KEGG:Non-alcoholic fatty liver disease,0.0006505745463797563
+KEGG:Alzheimer disease,0.0006241716415373855
+MSigDB:KRAS Signaling Dn,0.0006233873968391368
+KEGG:cGMP-PKG signaling pathway,0.0006230388436398559
+"KEGG:Alanine, aspartate and glutamate metabolism",0.0006228645670402599
+KEGG:Ribosome biogenesis in eukaryotes,0.0006011671303876254
+MSigDB:Unfolded Protein Response,0.0005923661621068498
+KEGG:Oocyte meiosis,0.0005752870553441091
+KEGG:Hepatocellular carcinoma,0.0005667475019627499
+KEGG:Fat digestion and absorption,0.000565179012566186
+KEGG:Amino sugar and nucleotide sugar metabolism,0.0005648304593669495
+KEGG:HIF-1 signaling pathway,0.0005406060120198397
+KEGG:Regulation of lipolysis in adipocytes,0.0005374690332266673
+KEGG:Progesterone-mediated oocyte maturation,0.0005275352670483846
+KEGG:Amphetamine addiction,0.0005022651601035433
+KEGG:Lysosome,0.0004961654791168391
+KEGG:Galactose metabolism,0.00047891209575452455
+KEGG:Signaling pathways regulating pluripotency of stem cells,0.0004708953721720199
+MSigDB:Reactive Oxygen Species Pathway,0.00046915260617579334
+KEGG:Pancreatic secretion,0.00045956739319672477
+KEGG:Drug metabolism,0.00045913170169766817
+KEGG:AGE-RAGE signaling pathway in diabetic complications,0.0004578246272005426
+KEGG:Biosynthesis of unsaturated fatty acids,0.00045695324420242934
+MSigDB:TGF-beta Signaling,0.0004543390952081561
+KEGG:Viral carcinogenesis,0.0004496336270184198
+KEGG:Pentose phosphate pathway,0.00042732622226708815
+KEGG:Choline metabolism in cancer,0.0004266291158686375
+KEGG:Arrhythmogenic right ventricular cardiomyopathy,0.0004207037114815515
+KEGG:mTOR signaling pathway,0.00040728441331086
+KEGG:Renal cell carcinoma,0.0004055416473146778
+MSigDB:Glycolysis,0.00040397315791809165
+KEGG:Retinol metabolism,0.0004037988813184734
+KEGG:Apoptosis,0.0003842799021610777
+KEGG:Gastric acid secretion,0.0003781802211743956
+KEGG:Glycosaminoglycan biosynthesis,0.0003577898590188866
+KEGG:Chronic myeloid leukemia,0.00035395577382726364
+KEGG:Protein export,0.00035256156103034007
+KEGG:Spliceosome,0.0003445448374478355
+KEGG:MAPK signaling pathway,0.0003189261773037799
+"KEGG:Growth hormone synthesis, secretion and action",0.00031700913470795734
+KEGG:Phosphatidylinositol signaling system,0.0003150049538123145
+KEGG:Nitrogen metabolism,0.0002965316342526503
+KEGG:Sphingolipid metabolism,0.0002950502831558843
+KEGG:Cardiac muscle contraction,0.0002851165169775793
+KEGG:Melanogenesis,0.00027222004860572024
+KEGG:Glutamatergic synapse,0.0002720457720060576
+KEGG:Complement and coagulation cascades,0.00026969303791122277
+KEGG:Purine metabolism,0.00026542326122056534
+KEGG:Th1 and Th2 cell differentiation,0.0002568837078391617
+MSigDB:Interferon Alpha Response,0.0002535724524464156
+MSigDB:Apical Surface,0.0002532238992471791
+KEGG:Pyruvate metabolism,0.0002527010694483245
+KEGG:RIG-I-like receptor signaling pathway,0.0002429415798695933
+KEGG:Kaposi sarcoma-associated herpesvirus infection,0.0002417216436723102
+KEGG:Base excision repair,0.00022821520720177623
+KEGG:Vascular smooth muscle contraction,0.00022821520720175403
+KEGG:Bile secretion,0.00022603674970653743
+KEGG:Fatty acid degradation,0.0002248168135091655
+MSigDB:Pancreas Beta Cells,0.00022063417511832827
+KEGG:Longevity regulating pathway,0.00021680008992668308
+KEGG:FoxO signaling pathway,0.00021314028133467833
+KEGG:Glycosaminoglycan degradation,0.00020512355775217372
+KEGG:Intestinal immune network for IgA production,0.0002019865789590236
+KEGG:Various types of N-glycan biosynthesis,0.00020146374916016896
+KEGG:Protein digestion and absorption,0.00019675828097045489
+KEGG:Collecting duct acid secretion,0.00017654219541456405
+KEGG:Fatty acid elongation,0.00017340521662141396
+KEGG:Adrenergic signaling in cardiomyocytes,0.00016503993983969513
+KEGG:Other glycan degradation,0.00016469138664045868
+KEGG:Ubiquitin mediated proteolysis,0.0001639942802419636
+KEGG:Systemic lupus erythematosus,0.00015841742905413624
+KEGG:Calcium signaling pathway,0.00015318913106554533
+KEGG:Prolactin signaling pathway,0.00015066212037104788
+KEGG:Glycosphingolipid biosynthesis,0.00014830938627621303
+KEGG:Prion disease,0.0001469151734792229
+KEGG:Metabolism of xenobiotics by cytochrome P450,0.00014639234368041265
+KEGG:Nucleotide excision repair,0.000146043790481154
+KEGG:VEGF signaling pathway,0.00014552096068227717
+KEGG:Platelet activation,0.0001449981308834225
+KEGG:Glucagon signaling pathway,0.0001448238542838265
+KEGG:IL-17 signaling pathway,0.0001411640456917773
+KEGG:Pentose and glucuronate interconversions,0.00014003124779427
+MSigDB:Bile Acid Metabolism,0.00013924700309599913
+MSigDB:Protein Secretion,0.00013576147110359039
+MSigDB:Hypoxia,0.00013532577960453373
+KEGG:GABAergic synapse,0.00013062031141479745
+KEGG:N-Glycan biosynthesis,0.00012966179011690836
+KEGG:Fluid shear stress and atherosclerosis,0.00012748333262166956
+KEGG:Central carbon metabolism in cancer,0.0001268733645230169
+KEGG:SNARE interactions in vesicular transport,0.00012643767302393804
+MSigDB:Xenobiotic Metabolism,0.00012260358783233727
+KEGG:Ubiquinone and other terpenoid-quinone biosynthesis,0.00012164506653440376
+KEGG:Endometrial cancer,0.00011659104514543106
+KEGG:Mucin type O-glycan biosynthesis,0.0001150225557488671
+KEGG:Basal transcription factors,0.00011380261955153958
+KEGG:B cell receptor signaling pathway,0.00011380261955151738
+KEGG:Fc gamma R-mediated phagocytosis,0.00011101419395762591
+KEGG:Carbohydrate digestion and absorption,0.00010822576836369002
+KEGG:Pantothenate and CoA biosynthesis,0.00010456595977170746
+KEGG:Spinocerebellar ataxia,0.00010142898097853514
+KEGG:Primary bile acid biosynthesis,9.811772558576681e-05
+KEGG:Terpenoid backbone biosynthesis,9.724634258765353e-05
+KEGG:Insulin secretion,9.637495958960684e-05
+KEGG:Folate biosynthesis,9.611354469014621e-05
+KEGG:alpha-Linolenic acid metabolism,9.358653399569317e-05
+KEGG:Regulation of actin cytoskeleton,8.382704441698419e-05
+KEGG:Fatty acid biosynthesis,8.347849121774775e-05
+KEGG:Proximal tubule bicarbonate reclamation,8.278138481925268e-05
+KEGG:Cytosolic DNA-sensing pathway,8.278138481923047e-05
+KEGG:Glioma,8.10386188230261e-05
+KEGG:Selenocompound metabolism,8.034151242457544e-05
+MSigDB:p53 Pathway,7.825019322915683e-05
+KEGG:Osteoclast differentiation,7.711739533162731e-05
+KEGG:Ovarian steroidogenesis,7.633315063333423e-05
+KEGG:Glyoxylate and dicarboxylate metabolism,7.127912924436153e-05
+KEGG:Mismatch repair,6.962350154797736e-05
+KEGG:Citrate cycle (TCA cycle),6.709649085352431e-05
+KEGG:Vasopressin-regulated water reabsorption,6.666079935446767e-05
+KEGG:Mannose type O-glycan biosynthesis,6.343668226149735e-05
+MSigDB:Myc Targets V1,6.282671416282248e-05
+KEGG:Hedgehog signaling pathway,6.0299703468347234e-05
+MSigDB:Fatty Acid Metabolism,5.40257458820248e-05
+KEGG:Hypertrophic cardiomyopathy,5.080162878903227e-05
+KEGG:Tyrosine metabolism,4.810034149496101e-05
+KEGG:Long-term depression,4.7054681897251704e-05
+KEGG:Linoleic acid metabolism,4.539905420084533e-05
+KEGG:Renin secretion,4.365628820466316e-05
+MSigDB:Myogenesis,3.851512851591465e-05
+KEGG:Taurine and hypotaurine metabolism,3.60752561212152e-05
+KEGG:Transcriptional misregulation in cancer,3.5900979521574784e-05
+KEGG:Phenylalanine metabolism,3.250258582903065e-05
+KEGG:Nicotine addiction,3.2241170929570016e-05
+KEGG:Aminoacyl-tRNA biosynthesis,3.2241170929570016e-05
+KEGG:PPAR signaling pathway,3.154406453109715e-05
+KEGG:Thyroid cancer,3.084695813264649e-05
+KEGG:Phospholipase D signaling pathway,2.962702193529676e-05
+KEGG:Long-term potentiation,2.8755638937205673e-05
+KEGG:Propanoate metabolism,2.7535702739878153e-05
+KEGG:Human T-cell leukemia virus 1 infection,2.5967213343247586e-05
+KEGG:Mineral absorption,2.4747277145964475e-05
+KEGG:Asthma,2.3875894147851183e-05
+KEGG:Fructose and mannose metabolism,2.2133128151624603e-05
+KEGG:Porphyrin and chlorophyll metabolism,1.9257564257935124e-05
+KEGG:Glutathione metabolism,1.8299042960023826e-05
+KEGG:Autoimmune thyroid disease,1.4464957768400843e-05
+KEGG:Primary immunodeficiency,1.2722191772174263e-05
+KEGG:Glycerophospholipid metabolism,1.254791517257825e-05
+KEGG:Phototransduction,1.2373638572982237e-05
+KEGG:Proteasome,8.365276781718833e-06
+"KEGG:Glycine, serine and threonine metabolism",7.145340584346904e-06
+KEGG:Lipid and atherosclerosis,5.0540213889505026e-06
+KEGG:Histidine metabolism,4.1826383908372126e-06
+KEGG:One carbon pool by folate,3.3112553927461263e-06
+"KEGG:Valine, leucine and isoleucine degradation",-6.273957586322432e-06
+KEGG:Hepatitis B,-8.713829980977473e-06
+KEGG:Basal cell carcinoma,-1.4029266269433017e-05
+KEGG:Glycerolipid metabolism,-1.5510617366154555e-05
+KEGG:Tight junction,-1.551061736617676e-05
+KEGG:Leishmaniasis,-1.760193656161757e-05
+KEGG:Inflammatory bowel disease,-2.0390362155509045e-05
+KEGG:Non-homologous end-joining,-2.265595795056807e-05
+KEGG:Rheumatoid arthritis,-2.3875894147917797e-05
+KEGG:Fc epsilon RI signaling pathway,-2.579293674374039e-05
+KEGG:African trypanosomiasis,-2.6664319741809273e-05
+KEGG:Gastric cancer,-2.858136233760966e-05
+KEGG:Synaptic vesicle cycle,-2.9975575134577604e-05
+KEGG:Steroid hormone biosynthesis,-3.084695813269089e-05
+KEGG:Arginine biosynthesis,-3.136978793154555e-05
+KEGG:Endocrine and other factor-regulated calcium reabsorption,-3.7120915718991124e-05
+KEGG:Alcoholism,-4.147783070949096e-05
+MSigDB:DNA Repair,-4.539905420093415e-05
+KEGG:Ferroptosis,-4.7054681897296116e-05
+KEGG:Other types of O-glycan biosynthesis,-5.1324458587997944e-05
+KEGG:Mitophagy,-5.541995867903715e-05
+KEGG:Renin-angiotensin system,-5.751127787447796e-05
+KEGG:Hematopoietic cell lineage,-5.803410767333261e-05
+KEGG:Type II diabetes mellitus,-5.855693747218727e-05
+KEGG:RNA polymerase,-5.977687366953699e-05
+KEGG:Bladder cancer,-6.221674606423643e-05
+KEGG:Vibrio cholerae infection,-6.413378866003683e-05
+KEGG:Allograft rejection,-6.474375675868949e-05
+KEGG:NOD-like receptor signaling pathway,-6.78807355518618e-05
+KEGG:Synthesis and degradation of ketone bodies,-6.953636324824597e-05
+KEGG:Gap junction,-7.511321443607333e-05
+KEGG:Graft-versus-host disease,-7.598459743416442e-05
+KEGG:Antigen processing and presentation,-7.859874642848207e-05
+KEGG:Arachidonic acid metabolism,-8.164858692181199e-05
+MSigDB:KRAS Signaling Up,-8.434987421590545e-05
+KEGG:Steroid biosynthesis,-8.469842741511968e-05
+KEGG:GnRH signaling pathway,-8.539553381361475e-05
+KEGG:Leukocyte transendothelial migration,-8.88810658060013e-05
+KEGG:Phagosome,-9.07981084018239e-05
+KEGG:Ascorbate and aldarate metabolism,-9.532929999189754e-05
+KEGG:Neurotrophin signaling pathway,-9.916338518356493e-05
+KEGG:Cholesterol metabolism,-0.00011432544935048305
+KEGG:Aldosterone-regulated sodium reabsorption,-0.00011624249194626124
+KEGG:Neutrophil extracellular trap formation,-0.00012007657713790643
+KEGG:Salmonella infection,-0.00012443349212840627
+KEGG:Adherens junction,-0.00012617625812461064
+KEGG:Viral myocarditis,-0.00012948751351733457
+KEGG:Circadian rhythm,-0.00013096886461414493
+KEGG:Acute myeloid leukemia,-0.00013245021571091088
+MSigDB:IL-2/STAT5 Signaling,-0.00014830938627625746
+KEGG:Vitamin digestion and absorption,-0.0001507492586709569
+KEGG:Cortisol synthesis and secretion,-0.00015266630126677949
+KEGG:mRNA surveillance pathway,-0.00015371196086444439
+KEGG:Ether lipid metabolism,-0.00016016019505040723
+KEGG:Amoebiasis,-0.0001608573014488801
+MSigDB:heme Metabolism,-0.00016399428024205243
+KEGG:Melanoma,-0.0001686997484317665
+KEGG:Legionellosis,-0.00016991968462907182
+KEGG:Insulin resistance,-0.0001720110038245126
+KEGG:Starch and sucrose metabolism,-0.00017723930181312575
+MSigDB:Angiogenesis,-0.00018055055720587188
+KEGG:Fanconi anemia pathway,-0.00018438464239756147
+KEGG:Type I diabetes mellitus,-0.00018455891899715748
+KEGG:Cholinergic synapse,-0.00018630168499333966
+KEGG:Dilated cardiomyopathy,-0.00019501551497433934
+KEGG:Human immunodeficiency virus 1 infection,-0.00019536406817355356
+KEGG:Staphylococcus aureus infection,-0.0002157544303290404
+KEGG:Maturity onset diabetes of the young,-0.00022255121771419528
+KEGG:Aldosterone synthesis and secretion,-0.00022533964330810895
+KEGG:Diabetic cardiomyopathy,-0.0002305679412966999
+MSigDB:Complement,-0.00023231070729290426
+KEGG:Toxoplasmosis,-0.00023997887767615022
+KEGG:Epstein-Barr virus infection,-0.0002425930266704679
+KEGG:Cocaine addiction,-0.00024416151606703184
+KEGG:Circadian entrainment,-0.0002495640906552632
+KEGG:Proteoglycans in cancer,-0.00025130685665142316
+MSigDB:Allograft Rejection,-0.00025304962264760533
+KEGG:Thermogenesis,-0.00025357245244648217
+KEGG:ErbB signaling pathway,-0.0002574065376381274
+KEGG:Yersinia infection,-0.0002845936871787691
+KEGG:Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,-0.0002866850063741655
+KEGG:Human cytomegalovirus infection,-0.00029226185756199287
+MSigDB:Epithelial Mesenchymal Transition,-0.00029452745335709627
+KEGG:Bacterial invasion of epithelial cells,-0.0003037641131369062
+KEGG:Nicotinate and nicotinamide metabolism,-0.00030480977273463774
+KEGG:Colorectal cancer,-0.0003075981983285292
+KEGG:Measles,-0.0003098637941236104
+MSigDB:Wnt-beta Catenin Signaling,-0.00031352360271561517
+KEGG:Lysine degradation,-0.0003229345390950877
+KEGG:Thiamine metabolism,-0.0003238930603929768
+KEGG:Tryptophan metabolism,-0.0003302541562790973
+KEGG:Notch signaling pathway,-0.0003377480500627472
+KEGG:Toll-like receptor signaling pathway,-0.0003384451564612201
+KEGG:TNF signaling pathway,-0.00034088502885587513
+KEGG:Taste transduction,-0.0003455904970455892
+KEGG:ABC transporters,-0.00034942458223723437
+KEGG:Butanoate metabolism,-0.0003598811782144384
+KEGG:Viral protein interaction with cytokine and cytokine receptor,-0.0003623210506090935
+KEGG:Salivary secretion,-0.0003644123698045121
+KEGG:Homologous recombination,-0.0003665036889999529
+KEGG:Olfactory transduction,-0.000369466391193507
+KEGG:Glycolysis / Gluconeogenesis,-0.00037399758278360283
+MSigDB:IL-6/JAK/STAT3 Signaling,-0.000375914625379381
+KEGG:PD-L1 expression and PD-1 checkpoint pathway in cancer,-0.0003764374551782801
+KEGG:RNA degradation,-0.0003765245934781003
+KEGG:beta-Alanine metabolism,-0.00038497700855966155
+KEGG:Morphine addiction,-0.0003858483915577304
+KEGG:Pancreatic cancer,-0.0004001390727265353
+MSigDB:Cholesterol Homeostasis,-0.0004051930941154858
+KEGG:Th17 cell differentiation,-0.00040989856230522204
+KEGG:Focal adhesion,-0.00040998570060504227
+KEGG:Estrogen signaling pathway,-0.0004128612644987317
+KEGG:Dopaminergic synapse,-0.0004229693072766771
+KEGG:Malaria,-0.000423492137075554
+KEGG:Hippo signaling pathway,-0.0004255834562709726
+KEGG:Chemokine signaling pathway,-0.0004295918180622138
+MSigDB:Notch Signaling,-0.000443359669432164
+KEGG:Inflammatory mediator regulation of TRP channels,-0.00044614809502607766
+MSigDB:Hedgehog Signaling,-0.0004487622440203953
+"KEGG:Parathyroid hormone synthesis, secretion and action",-0.00046636418058196847
+KEGG:Chagas disease,-0.0004694140210753206
+KEGG:Neuroactive ligand-receptor interaction,-0.0004771693297583868
+KEGG:Epithelial cell signaling in Helicobacter pylori infection,-0.0004787378191549507
+KEGG:Breast cancer,-0.0004902400747298419
+KEGG:Cellular senescence,-0.000494945542919556
+KEGG:Pathways of neurodegeneration,-0.0005013937771054966
+KEGG:GnRH secretion,-0.000506796351693728
+KEGG:Shigellosis,-0.0005168172561718087
+KEGG:Cysteine and methionine metabolism,-0.0005177757774697423
+KEGG:Retrograde endocannabinoid signaling,-0.0005226555222590745
+KEGG:MicroRNAs in cancer,-0.0005341577778339435
+KEGG:Arginine and proline metabolism,-0.000589142045013924
+KEGG:Cell adhesion molecules,-0.0005895777365129806
+MSigDB:PI3K/AKT/mTOR  Signaling,-0.0006010799920878717
+KEGG:NF-kappa B signaling pathway,-0.00060125426868749
+KEGG:Ras signaling pathway,-0.0006693964191387458
+KEGG:Adipocytokine signaling pathway,-0.0006747989937269328
+KEGG:Pathways in cancer,-0.0006882182918976465
+KEGG:C-type lectin receptor signaling pathway,-0.0006889153982961415
+KEGG:Thyroid hormone synthesis,-0.0006913552706907967
+KEGG:Chemical carcinogenesis,-0.0007028575262657099
+KEGG:Apelin signaling pathway,-0.0007140112286413425
+KEGG:Necroptosis,-0.0007154925797381306
+MSigDB:Interferon Gamma Response,-0.000718978111730495
+KEGG:Oxytocin signaling pathway,-0.0007612401871382346
+KEGG:Pyrimidine metabolism,-0.0007859874642841991
+KEGG:Wnt signaling pathway,-0.0007882530600792804
+KEGG:T cell receptor signaling pathway,-0.0008041993689444915
+KEGG:JAK-STAT signaling pathway,-0.0008651090405115358
+KEGG:Natural killer cell mediated cytotoxicity,-0.0009005743285340984
+KEGG:Sphingolipid signaling pathway,-0.00090344989242781
+KEGG:Parkinson disease,-0.0009078068074182877
+KEGG:Cushing syndrome,-0.0009384794889513382
+KEGG:Axon guidance,-0.0009391765953497888
+KEGG:Hepatitis C,-0.000946670489133461
+KEGG:Non-small cell lung cancer,-0.0009595669575052978
+KEGG:Autophagy,-0.0010027875542109488
+KEGG:Thyroid hormone signaling pathway,-0.0010304975335504673
+KEGG:ECM-receptor interaction,-0.0010869631518272138
+MSigDB:UV Response Dn,-0.0011422088339065883
+MSigDB:TNF-alpha Signaling via NF-kB,-0.001237538133898508
+KEGG:Pathogenic Escherichia coli infection,-0.0012387580700958356
+MSigDB:Androgen Response,-0.001262633964243709
+KEGG:Influenza A,-0.0012753561560159277
+MSigDB:Inflammatory Response,-0.0013136970079322464
+MSigDB:Apoptosis,-0.001317531093123847
+MSigDB:UV Response Up,-0.001325024986907497
+KEGG:RNA transport,-0.001340187051074393
+MSigDB:Myc Targets V2,-0.0014407446490548592
+KEGG:Protein processing in endoplasmic reticulum,-0.001519169118883701
+KEGG:Serotonergic synapse,-0.0017898206780928572
+KEGG:TGF-beta signaling pathway,-0.0018790502970980727
+KEGG:Rap1 signaling pathway,-0.0019428355325588065
+MSigDB:E2F Targets,-0.0019492837667447471
+MSigDB:Apical Junction,-0.002075285748269695
